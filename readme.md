@@ -44,6 +44,7 @@ Selon l'état courant de la cellule et le nombre de ses voisins, déterminer son
 
 ## Commandes
 
+- `npm install` -> installation des dépendances
 - `npm test` -> lancement unitaire des tests
 - `npm run test:watch` -> Lancement continu des tests
 - `npm run test:coverage` -> lancement unitaire des tests avec couverture de code
